@@ -9,7 +9,7 @@ Atividade proposta pelo professor Gabriel do PROA
 
 ##
 
-![image](https://user-images.githubusercontent.com/92994715/200908976-65a3f7f0-4c89-4e9a-bcdf-e6a898469f25.png)
+![image](https://user-images.githubusercontent.com/92994715/200909266-49d93ccd-c7cc-496f-9808-4ae827de14d9.png)
 
 ##
 
