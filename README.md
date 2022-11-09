@@ -7,6 +7,11 @@ Atividade proposta pelo professor Gabriel do PROA
 - > Os exercicios estão em arquivos individuais .js para maior compreensão de cada codigo 
 - > Se escolher ver os codigos em prática. copie e cole eles dentro da tag <script> localizada no Index.html
 
+##
+
+![image](https://user-images.githubusercontent.com/92994715/200908976-65a3f7f0-4c89-4e9a-bcdf-e6a898469f25.png)
+
+##
 
 TECNOLOGIAS E LINGUAGENS UTILIZADAS:
 
